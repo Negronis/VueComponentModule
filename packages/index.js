@@ -1,6 +1,6 @@
-import FonlineConsultation from './fonlineconsultation';
+import fonlineconsultation from './fonlineconsultation';
 const components = [
-   FonlineConsultation
+   fonlineconsultation
 ];
 // 注册install方法
 const install = function (Vue) {

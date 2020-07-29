@@ -1,5 +1,5 @@
-import FonlineConsultation from './index.vue';
-FonlineConsultation.install = function(Vue){
-   Vue.component(FonlineConsultation.name,FonlineConsultation);
+import fonlineconsultation from './index.vue';
+fonlineconsultation.install = function(Vue){
+   Vue.component(fonlineconsultation.name,fonlineconsultation);
 };
-export default FonlineConsultation;
+export default fonlineconsultation;
