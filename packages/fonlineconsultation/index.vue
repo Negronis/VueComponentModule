@@ -7,6 +7,9 @@
 <script>
 export default {
   name:"FonlineConsultation",
+  props:[
+    
+  ],
   data() {
     return {};
   },
